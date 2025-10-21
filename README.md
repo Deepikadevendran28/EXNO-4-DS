@@ -159,8 +159,6 @@ print(selected_features)
 <img width="257" height="39" alt="image" src="https://github.com/user-attachments/assets/b189ab85-50b2-47e1-9c43-e0aec8e5245b" />
 <img width="335" height="50" alt="image" src="https://github.com/user-attachments/assets/4936b2e3-39ab-48b4-8f69-f47b668a9332" />
 <img width="392" height="175" alt="image" src="https://github.com/user-attachments/assets/2c07b15d-b7aa-45ed-b9f9-11af9a6fb5dd" />
-<img width="335" height="50" alt="image" src="https://github.com/user-attachments/assets/ed0654b9-f87f-4fc6-a11c-10761c5b48b9" />
-<img width="392" height="175" alt="image" src="https://github.com/user-attachments/assets/125426c3-9617-4dfe-8666-e4a9c53ddf5f" />
 <img width="236" height="83" alt="image" src="https://github.com/user-attachments/assets/e2c36fca-4395-428b-8e80-3832731fc296" />
 <img width="263" height="53" alt="image" src="https://github.com/user-attachments/assets/7b6be89c-34f7-4ef2-85f1-5b08d060018f" />
 
